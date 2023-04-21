@@ -1275,15 +1275,7 @@
                     marginLeft: "0px"
                 })
             }
-        });
-        $("#cwClose").click(function() {
-            $("#cwdALl").hide()
-        });
-        $("#carousel").click(function() {
-            $("#cwdALl").show(200)
-        }).find("img").removeAttr("onclick");
-    </script>
-</body>
+     
 
 </html>
 
